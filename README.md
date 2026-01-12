@@ -1,3 +1,7 @@
+> This repository is part of the **Quansistor Field Computing (QFC)** corpus.
+>
+> Canonical entry point:
+> https://github.com/101researchgroup
 # Numerical Results for the SMRK Hamiltonian
 
 ## Overview
